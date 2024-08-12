@@ -345,6 +345,9 @@ form textarea {
     width: 40px;
     height: 40px;
 }
+.footer-social a {
+    margin-left: 10px;
+}
 .copyright {
     padding: 20px;
     background: var(--main-color);
